@@ -1,3 +1,4 @@
 Resolusi 
-- belajar bahasa arab
+- Belajar bahasa arab
 - Lulus Tahsin Metode UMMI
+- Paham Laravel
