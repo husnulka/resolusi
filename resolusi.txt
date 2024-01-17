@@ -1,4 +1,5 @@
 Resolusi 
 - Belajar bahasa arab
 - Lulus Tahsin Metode UMMI
-- Paham Laravel
+
+- Memahami Laravel
